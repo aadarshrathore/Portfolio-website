@@ -23,6 +23,7 @@
        transition: animate all ease-in ;
 }
 .card_body{
+    gap: 20px;
     display: flex;
     justify-content: space-evenly;
     flex-wrap: wrap;
